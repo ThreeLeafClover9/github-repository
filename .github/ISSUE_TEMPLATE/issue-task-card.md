@@ -1,8 +1,8 @@
 ---
 name: Issue Task Card
 about: Issue Task Card
-title: "[SR - task]"
-labels: SR
+title: "[Bare - task]"
+labels: Bare Minimum, SR
 assignees: ThreeLeafClover9
 
 ---
