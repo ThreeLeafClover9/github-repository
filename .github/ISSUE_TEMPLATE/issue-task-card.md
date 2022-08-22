@@ -1,8 +1,8 @@
 ---
 name: Issue Task Card
 about: Issue Task Card
-title: "[Bare - task]"
-labels: Bare Minimum
+title: "[Advanced- task]"
+labels: Advanced
 assignees: ThreeLeafClover9
 
 ---
