@@ -2,7 +2,7 @@
 name: Issue Task Card
 about: Issue Task Card
 title: "[Bare - task]"
-labels: Bare Minimum, SR
+labels: Bare Minimum
 assignees: ThreeLeafClover9
 
 ---
