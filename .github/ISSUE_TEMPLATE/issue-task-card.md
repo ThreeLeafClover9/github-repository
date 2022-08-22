@@ -1,9 +1,9 @@
 ---
 name: Issue Task Card
 about: Issue Task Card
-title: ''
-labels: ''
-assignees: ''
+title: "[SR - task]"
+labels: SR
+assignees: ThreeLeafClover9
 
 ---
 
